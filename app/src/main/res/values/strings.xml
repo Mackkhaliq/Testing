@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency converter</string>
+    <string name="GPU">2080 TI</string>
+    <string name="iphone">iPhone XS Max</string>
+    <string name="CPU">Threadripper</string>
+    <string name="elGato">Elgato</string>
+    <string name="Ram">RGB Ram</string>
+</resources>
